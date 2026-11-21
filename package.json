@@ -1,0 +1,15 @@
+{
+  "name": "spring-boot-0-to-hero",
+  "version": "1.0.0",
+  "description": "Interactive Spring Boot 0 to Hero course (zero-dependency local web app)",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:nobrowser": "node server.js --no-open"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "UNLICENSED"
+}
